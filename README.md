@@ -1,2 +1,3 @@
 # loan-prediction
-made by Hirak,Swastik,Raunak and me.
+College Major project made by Hirak,Swastik,Raunak and me.
+
